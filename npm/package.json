@@ -1,0 +1,40 @@
+{
+  "name": "Lucy",
+  "company": "Arity",
+  "version": "2.1.2",
+  "description": "Utility library for building CWAs (Conscious Web Apps) for Node & workers. Lucy is also the back-end utility library for the Universal Web. https://sentivate.com",
+  "bugs": {
+    "url": "https://github.com/ArityLLCNJ/Lucy/issues"
+  },
+  "homepage": "https://aritysoftware.com",
+  "directories": {
+    "doc": "docs",
+    "source": "source",
+    "build": "build",
+    "test": "tests"
+  },
+  "readme": "README.md",
+  "keywords": [
+    "Acid",
+    "utility",
+    "Lucy",
+    "CWA",
+    "self constructing"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "tommarchi@protonmail.com",
+      "name": "Tom Marchi"
+    },
+    {
+      "email": "erickdelgado@protonmail.com",
+      "name": "Erick Delgado"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArityLLCNJ/Lucy.git"
+  }
+}
